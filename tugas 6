@@ -1,0 +1,23 @@
+# variable assigment value
+x = 9
+y = 6
+print("nilai dari x adalah : ", y)
+
+# aturan penamaan variable
+luas = 30 #bisa berupa kata
+alfan_jibal = 100 #jika dua kata, digabung dengan "_"
+AlfanX = 10 #boleh gabungan capital non-kapital
+jibalX = 3
+alfan22 = 10 #jika menggabungkan huruf dan angka, angka harus diakhir
+print("nilai dari alfan adalah : ", AlfanX)
+print("nilai dari alfan adalah : ", jibalX)
+print("nilai dari alfan adalah : ", alfan22)
+
+a = 4
+print("tipe data dari a : ", type(a)) #integer bilangan bulat
+b = 6.9
+print("tipe data dari b : ", type(b)) #float bilangan bulat
+c = "gacor"
+print("tipe data dari c : ", type(c)) #string, gabungan karakter
+d = False
+print("tipe data dari d : ", type(d)) #Boolean, true False
